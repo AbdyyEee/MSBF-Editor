@@ -8,8 +8,6 @@ FLW3 Editor is an application used for editing the FLW3 section of the `.msbf` f
 * Animal Crossing: Amiibo Festival
 * The Legend of Zelda: Skyward Sword
   
-This application is dedicated for researching the format, for an eventual node editor application to be developed.
-
 What is supported:
 * Viewing flowcharts in a list format.
 * Editing node parameters.
