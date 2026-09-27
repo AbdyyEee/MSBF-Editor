@@ -1,5 +1,5 @@
 # MSBF Editor
-MSBF Editor (formerly known as FLW3 editor) is an upcoming application used for editing the FLW3 section of the `.msbf` format from Nintendo's LMS library. 
+MSBF Editor (formerly known as FLW3 editor) is an upcoming application based on [TOTK Event Editor](https://github.com/cargocult-mods/TOTK-event-editor) utilized for editing the FLW3 section of the `.msbf` format from Nintendo's LMS library. 
 
 Examples of games that utilize this format are:
 
