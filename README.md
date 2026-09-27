@@ -1,5 +1,6 @@
-# FLW3 Editor
-FLW3 Editor is an application used for editing the FLW3 section of the `.msbf` format from Nintendo's LMS library. This section is most notably used in several 3DS, Wii and Wii U games. Some examples of games are:
+# MSBF Editor
+MSBF Editor is an upcoming application used for editing the FLW3 section of the `.msbf` format from Nintendo's LMS library. This section is most notably used in several 3DS, Wii and Wii U games. Some examples of games are:
+
 * Tomodachi Life
 * Animal Crossing: New Leaf
 * Nintendo Badge Arcade
@@ -7,23 +8,9 @@ FLW3 Editor is an application used for editing the FLW3 section of the `.msbf` f
 * The Legend of Zelda: Triforce Heros
 * Animal Crossing: Amiibo Festival
 * The Legend of Zelda: Skyward Sword
-  
-What is supported:
-* Viewing flowcharts in a list format.
-* Editing node parameters.
-* Adding nodes.
-* Adding branches, deleting branches.
-* Adding flowcharts.
-* Creating new files.
-* Using extensions to document nodes. 
+* Pikmin 3
 
-## Extensions
-A rough overview on how to write [extensions](https://github.com/AbdyyEee/FLW3-Editor/wiki/Extensions) is on the wiki.
+# Screenshots
+<img width="1307" height="1065" alt="image" src="https://github.com/user-attachments/assets/b35a0da5-f3c1-4f8b-afe7-22c4f6242d1e" />
+<img width="1307" height="898" alt="image" src="https://github.com/user-attachments/assets/ad19d4f8-3c19-43e5-915a-aec0ce373f9c" />
 
-## Contributions 
-Any contributions are welcome, do so by just downloading this repo. This application was built on Python 3.10.0, and the only libraries used are PyQt6 and PyYaml for extensions.
-
-## Bugs
-**This tool may be buggy**, report any bugs as an issue in the issues tab of this github page.
-
-![image](https://github.com/AbdyyEee/FLW3-Editor/assets/82438230/03f2c4f2-e90b-4391-851a-52bead1d3129)
