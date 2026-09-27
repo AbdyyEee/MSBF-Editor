@@ -13,7 +13,7 @@ Examples of games that utilize this format are:
 * Pikmin 3
 
 # Dependencies
-- [PyLibMS](https://github.com/AbdyyEee/PyLibMS)
+[PyLibMS](https://github.com/AbdyyEee/PyLibMS)
 
 # Screenshots
 <img width="1307" height="1065" alt="image" src="https://github.com/user-attachments/assets/b35a0da5-f3c1-4f8b-afe7-22c4f6242d1e" />
