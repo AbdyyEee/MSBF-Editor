@@ -1,5 +1,7 @@
 # MSBF Editor
-MSBF Editor is an upcoming application used for editing the FLW3 section of the `.msbf` format from Nintendo's LMS library. This section is most notably used in several 3DS, Wii and Wii U games. Some examples of games are:
+MSBF Editor (formerly known as FLW3 editor) is an upcoming application used for editing the FLW3 section of the `.msbf` format from Nintendo's LMS library. 
+
+Examples of games that utilize this format are:
 
 * Tomodachi Life
 * Animal Crossing: New Leaf
